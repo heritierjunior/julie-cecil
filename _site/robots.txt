@@ -4,7 +4,7 @@ User-agent: *
 Allow: /
 # disallow redirects pages
 # disallow 404 page
-Disallow: /404.html
+Disallow: /julie-cecil/404.html
 
 # sitemap
-Sitemap: https://juliececil.local/sitemap.xml
+Sitemap: https://heritierjunior.github.io/julie-cecil/sitemap.xml

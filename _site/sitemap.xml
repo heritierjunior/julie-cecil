@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<?xml-stylesheet type="text/xsl" href="https://juliececil.local/xsl/sitemap.xsl" media="all"?>
+<?xml-stylesheet type="text/xsl" href="https://heritierjunior.github.io/julie-cecil/xsl/sitemap.xsl" media="all"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"
   xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
 >
   <url>
-    <loc>https://juliececil.local/</loc>
+    <loc>https://heritierjunior.github.io/julie-cecil/</loc>
     <lastmod>2026-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

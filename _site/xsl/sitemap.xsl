@@ -298,7 +298,7 @@
               </svg>
               Sitemap
             </span>
-            <h1><a href="https://juliececil.local/">IR JULIE & Homestore</a></h1>
+            <h1><a href="https://heritierjunior.github.io/julie-cecil/">IR JULIE & Homestore</a></h1>
             <p class="description">Site description.</p>
             <div class="subscribe">
               <label for="sitemap-url">Sitemap URL:</label>
@@ -307,7 +307,7 @@
                   <xsl:attribute name="type">url</xsl:attribute>
                   <xsl:attribute name="readonly">readonly</xsl:attribute>
                   <xsl:attribute name="spellcheck">false</xsl:attribute>
-                  <xsl:attribute name="value">https://juliececil.local/sitemap.xml</xsl:attribute>
+                  <xsl:attribute name="value">https://heritierjunior.github.io/julie-cecil/sitemap.xml</xsl:attribute>
                 </input>
                 <button type="button" class="copy" data-target="sitemap-url" data-copied="Copied!">Copy</button>
               </div>
