@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <meta name="description" content="{{ site.tagline }}">
+  <link rel="stylesheet" href="{{ 'css/custom.css' | url }}">
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="{{ '' | url }}" class="logo"><span class="logo-mark">IJ</span><span>IR JULIE <b>& Homestore</b></span></a>
+      <ul>
+        {% for item in site.menu.main %}
+          <li><a href="{{ item.url | url }}">{{ item.name }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </header>
+
+  <main style="background: white; padding: 3rem; border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05); margin-top: 3rem;">
+    <h1 style="color: var(--secondary); border-bottom: 2px solid var(--border); padding-bottom: 1rem; margin-top: 0;">{{ page.title }}</h1>
+    {{ page.content | raw }}
+  </main>
+
+  <footer>
+    <p>&copy; 2026 IR JULIE & Homestore. Tous droits réservés. Propulsé par <a href="https://cecil.app">Cecil</a>.</p>
+  </footer>
+</body>
+</html>

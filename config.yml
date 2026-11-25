@@ -1,0 +1,12 @@
+title: "IR JULIE & Homestore"
+tagline: "Conseil informatique, espaces de travail performants et équipements haut de gamme"
+baseurl: "https://juliececil.local/"
+lang: "fr"
+menu:
+  main:
+    - name: "Accueil"
+      url: ""
+    - name: "Portfolio (IR JULIE)"
+      url: "portfolio/"
+    - name: "Homestore (Boutique)"
+      url: "homestore/"
